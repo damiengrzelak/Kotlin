@@ -24,6 +24,12 @@ private var resultVector = arrayOf(2.0, 3.0, -1.0)
 
 private val firstMatrix = arrayOf(listOf(80.0, -20.0, -20.0), listOf(-20.0, 40.0, -20.0), listOf(-20.0, -20.0, 130.0))
 private var resultVector = arrayOf(20.0, 20.0, 20.0)
+
+verson 2 :
+private val firstMatrix = arrayOf(listOf(1.0, 3.0, 1.0), listOf(1.0, -2.0, -1.0), listOf(2.0, 1.0, 2.0))
+private var resultVector = arrayOf(10.0, -6.0, 10.0)
+
+It should be x = 1, y = 2, z = 3
 */
 
 fun main(args: Array<String>) {
